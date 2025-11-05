@@ -18,7 +18,7 @@ Mi enfoque principal es construir soluciones robustas y escalables, con un fuert
 
 ### 🚀 Mi Proyecto Principal
 
-**[Grow Controller (Sistema de Agricultura Modular)](https://github.com/BrahianA/Grow_controller**
+**[Grow Controller (Sistema de Agricultura Modular)] (https://github.com/BrahianA/Grow_controller)**
 
 Lideré el diseño de la arquitectura full-stack para un sistema de IoT que optimiza la agricultura en invernaderos.
 
