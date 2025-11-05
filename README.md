@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hola, soy Bruno Dos Santos 👋
 
-<!--
-**BruDosSant/BruDosSant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Desarrollador Backend Python (Semi-Sr)** egresado de Holberton School, especializado en **diseño de arquitectura de software** y APIs RESTful.
 
-Here are some ideas to get you started:
+Mi enfoque principal es construir soluciones robustas y escalables, con un fuerte énfasis en el código limpio y el Control de Calidad (QA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mi Stack de Tecnologías
+
+* **Lenguajes:** Python, JavaScript (para debugging/QA)
+* **Frameworks y Librerías:** FastAPI, SQLAlchemy
+* **Bases de Datos:** SQL (General)
+* **Conceptos Clave:** Diseño de Arquitectura, APIs RESTful, Control de Calidad (QA), IoT
+* **Herramientas y Hardware:** Git, Docker, ESP32, Raspberry Pi
+
+---
+
+### 🚀 Mi Proyecto Principal
+
+**[Grow Controller (Sistema de Agricultura Modular)](https://github.com/brunosantos/grow-controller)** <-- *(¡Cambia este enlace por el tuyo!)*
+
+Lideré el diseño de la arquitectura full-stack para un sistema de IoT que optimiza la agricultura en invernaderos.
+
+* **Rol:** Diseño de Arquitectura, Desarrollo Backend (Python/FastAPI) y QA (Python/JS).
+* **Stack del Proyecto:** FastAPI, SQLAlchemy, ESP32, Raspberry Pi.
+
+---
+
+### 📫 ¿Hablamos?
+
+* **LinkedIn:** [https://www.linkedin.com/in/brunodossant](https://www.linkedin.com/in/brunodossant)  <-- *(¡Cambia este enlace por el tuyo!)*
+* **CV:** [Pega aquí el enlace a tu CV PDF si lo subiste a algún sitio, si no, borra esta línea]
