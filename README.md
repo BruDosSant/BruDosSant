@@ -1,6 +1,6 @@
 ### Hola, soy Bruno Dos Santos 👋
 
-Soy un **Desarrollador Backend Python (Semi-Sr)** egresado de Holberton School, especializado en **diseño de arquitectura de software** y APIs RESTful.
+Soy un **Desarrollador Backend Python** egresado de Holberton School, especializado en **diseño de arquitectura de software** y APIs RESTful.
 
 Mi enfoque principal es construir soluciones robustas y escalables, con un fuerte énfasis en el código limpio y el Control de Calidad (QA).
 
@@ -18,7 +18,7 @@ Mi enfoque principal es construir soluciones robustas y escalables, con un fuert
 
 ### 🚀 Mi Proyecto Principal
 
-**[Grow Controller (Sistema de Agricultura Modular)](https://github.com/brunosantos/grow-controller)** <-- *(¡Cambia este enlace por el tuyo!)*
+**[Grow Controller (Sistema de Agricultura Modular)](https://github.com/BrahianA/Grow_controller**
 
 Lideré el diseño de la arquitectura full-stack para un sistema de IoT que optimiza la agricultura en invernaderos.
 
@@ -29,5 +29,4 @@ Lideré el diseño de la arquitectura full-stack para un sistema de IoT que opti
 
 ### 📫 ¿Hablamos?
 
-* **LinkedIn:** [https://www.linkedin.com/in/brunodossant](https://www.linkedin.com/in/brunodossant)  <-- *(¡Cambia este enlace por el tuyo!)*
-* **CV:** [Pega aquí el enlace a tu CV PDF si lo subiste a algún sitio, si no, borra esta línea]
+* **LinkedIn:** [https://www.linkedin.com/in/brunodossant](https://www.linkedin.com/in/brunodossant/)
